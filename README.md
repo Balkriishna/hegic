@@ -1,2 +1,0 @@
-# hegic
-testing on hegic
